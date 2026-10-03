@@ -1,0 +1,7 @@
+# 敏感文件：绝不入库
+bili_cookies.json
+.sms_used.json
+
+# Python
+__pycache__/
+*.pyc
